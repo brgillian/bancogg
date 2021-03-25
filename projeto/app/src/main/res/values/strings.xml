@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Banco GG</string>
-
+    <string name="resumo_faturas">Resumo das Faturas</string>
 </resources>
