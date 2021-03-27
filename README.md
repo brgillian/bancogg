@@ -6,4 +6,4 @@ Projeto de aplicativo de banco simples desenvolvido a partir das aulas do curso 
 
 Android Studio v.4.1.3 - API 21 Android 5.0(Lollipop)
 
-## 
+Em andamento...
